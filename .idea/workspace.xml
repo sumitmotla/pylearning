@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88d9d082-0faf-46db-a3e4-8fb68478ccac" name="Changes" comment="">
+    <list default="true" id="88d9d082-0faf-46db-a3e4-8fb68478ccac" name="Changes" comment="second commit">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pylearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pylearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex_03062024/firstFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_03062024/firstFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_12062024/Conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_12062024/Conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_12062024/fibonaci_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_12062024/fibonaci_series.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,21 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sumitmotla"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sumitmotla&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sumitmotla/pylearning.git",
-    "accountId": "797a70c3-6dfe-4ac0-93d4-31cdfcea1614"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sumitmotla/pylearning.git&quot;,
+    &quot;accountId&quot;: &quot;797a70c3-6dfe-4ac0-93d4-31cdfcea1614&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2hLpoiLe53T9QidrDowcylClGtI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,11 +50,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Conditions.executor": "Run",
+    "Python.factorial_task.executor": "Run",
+    "Python.fibonaci_series.executor": "Run",
     "Python.firstFile.executor": "Run",
+    "Python.task2.executor": "Run",
+    "Python.triangle_classifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/sumitkumar/Documents/Sumit/Professional/Learning/Python Projects/pylearning",
+    "settings.editor.selected.configurable": "aws.codewhisperer"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/task_12062024" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,6 +83,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717383388746</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1717383783269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717383783269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
